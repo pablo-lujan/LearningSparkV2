@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T17:32:42.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="_IRJu0WuAw_ajKzQWIAz" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T17:32:54.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="DM-8Z_IF_2l-0jXewiFp" version="21.3.4" type="github">
   <diagram name="Page-1" id="dQD7q0FV81Xkfr1hVzfH">
-    <mxGraphModel dx="1823" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b-tsryP7ZmEh2vJS-tVm-130" value="&#xa;&lt;div style=&quot;color: rgb(197, 200, 198); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;V_HG_INVENT&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1180" width="200" height="150" as="geometry" />
+          <mxGeometry x="570" y="1080" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="b-tsryP7ZmEh2vJS-tVm-131" value="&lt;div style=&quot;color: rgb(197, 200, 198); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;ID Alquiler&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="b-tsryP7ZmEh2vJS-tVm-130">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
